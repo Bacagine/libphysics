@@ -1,0 +1,4 @@
+Installation proccess of the libphysics
+
+$ sudo ./mkinstall  # Compile and install the software
+

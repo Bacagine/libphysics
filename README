@@ -1,0 +1,64 @@
+libphysics
+├── AUTHORS
+├── ChangeLog
+├── INSTALL
+├── LICENSE
+├── Makefile
+├── NEWS
+├── README
+├── README.md
+├── doc
+├── include
+│   └── libphysics
+│       └── physics.h
+├── install.sh
+├── man
+│   └── libphysics.1
+├── mk
+├── mk_windows
+├── mkall
+├── mkall_windows
+├── mkclean
+├── mkd
+├── mkd_windows
+├── mkdall
+├── mkdall_windows
+├── mkdistclean
+├── mkinstall
+├── mktest
+├── mktest_windows
+├── mkuninstall
+├── src
+│   └── physics.c
+└── uninstall.sh
+
+7 directories, 48 files
+
+AUTHORS.......: The name and email of project author
+ChangeLog.....: Changelog of project
+INSTALL.......: Installation guide
+LICENSE.......: License of software
+Makefile......: Makefile of the project
+NEWS..........: File with news about the project
+README........: This file containing a explanation about the files of project
+README.md.....: The README of github
+physics.h.....: Header file of libphysics module
+install.sh....: Installation script
+libphysics.1..: A man page about the library and your functions
+mk............: A make script
+mk_windows....: A make script for windows
+mkall.........: make all script
+mkall_windows.: make all script for windows
+mkclean.......: make clean script
+mkd...........: make debug script
+mkd_windows...: make debug script for windows
+mkdall........: make debug all script
+mkdall_windows: make debug all script for windows
+mkdistclean...: make distclean script
+mkinstall.....: make install script
+mktest........: make test script
+mktest_windows: make test script for windows
+mkuninstall...: make uninstall script
+physics.c.....: C source file content the 
+uninstall.sh..: Uninstall script of the software
+
